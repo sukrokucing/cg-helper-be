@@ -1,10 +1,9 @@
 {
-  "name": "app",
+  "name": "cg-helper-be",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "json-server --watch db.json"
+    "start": "node api/index.js"
   },
   "keywords": [],
   "author": "",
