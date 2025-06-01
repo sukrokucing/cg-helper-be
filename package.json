@@ -4,6 +4,7 @@
   "scripts": {
     "start": "node api/server.js"
   },
+  "main": "api/server.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
