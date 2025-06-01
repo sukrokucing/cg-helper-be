@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "benyaminp",
+      "password": "$2a$10$7kJf8NQ9xOZpH7sL9Kdq1uK0J",
+      "cgl": "Benyamin - Pricillia",
+      "sfCode": "SF003",
+      "lastLogin": "2025-05-30T14:22:10Z",
+      "createdAt": "2024-12-15T10:00:00Z",
+      "updatedAt": "2025-05-30T14:22:10Z"
+    },
+    {
+      "id": 2,
+      "username": "thimotiusn",
+      "password": "$2a$10$9gSd3ePzLk4ZBvMaL0FeYObCu",
+      "cgl": "Thimotius - Novy",
+      "sfCode": "SF005",
+      "lastLogin": "2025-05-28T09:40:05Z",
+      "createdAt": "2024-12-20T09:15:00Z",
+      "updatedAt": "2025-05-28T09:40:05Z"
+    },
+    {
+      "id": 3,
+      "username": "karenolivia",
+      "password": "$2a$10$aLp9VvRtFgqX1FJMnzYBgOeyv",
+      "cgl": "Karen Olivia",
+      "sfCode": "SF015",
+      "lastLogin": "2025-05-29T18:05:33Z",
+      "createdAt": "2025-01-02T08:30:00Z",
+      "updatedAt": "2025-05-29T18:05:33Z"
+    }
+  ],
+  "transaksi": [
+    {
+      "id": 1,
+      "userId": 1,
+      "tanggal": "2025-01-07",
+      "bulan": "Januari",
+      "mingguKe": 1,
+      "sfCode": "SF003",
+      "cgl": "Benyamin - Pricillia",
+      "jumlahPeserta": 23,
+      "jumlahVip": 0,
+      "status": "Hadir",
+      "keteranganOpsional": ""
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "tanggal": "2025-01-07",
+      "bulan": "Januari",
+      "mingguKe": 1,
+      "sfCode": "SF005",
+      "cgl": "Thimotius - Novy",
+      "jumlahPeserta": 13,
+      "jumlahVip": 0,
+      "status": "Hadir",
+      "keteranganOpsional": ""
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "tanggal": "2025-01-07",
+      "bulan": "Januari",
+      "mingguKe": 1,
+      "sfCode": "SF015",
+      "cgl": "Karen Olivia",
+      "jumlahPeserta": 15,
+      "jumlahVip": 0,
+      "status": "Hadir",
+      "keteranganOpsional": ""
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "tanggal": "2025-01-28",
+      "bulan": "Januari",
+      "mingguKe": 4,
+      "sfCode": "SF003",
+      "cgl": "Benyamin - Pricillia",
+      "jumlahPeserta": 0,
+      "jumlahVip": 0,
+      "status": "Libur",
+      "keteranganOpsional": "Libur Nasional"
+    }
+  ]
+}
