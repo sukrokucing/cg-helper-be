@@ -1,9 +1,8 @@
 {
   "name": "cg-helper-be",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
-    "start": "node api/index.js"
+    "start": "node api/server.js"
   },
   "keywords": [],
   "author": "",
